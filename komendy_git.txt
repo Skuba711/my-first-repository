@@ -1,0 +1,6 @@
+git init - inicjuje repozytorium
+git add - dodaje plik do starzu(wybiera pliki do zapisania)
+git status - wyświetla wybrane pliki
+git reset - usuwa pliki z listy do zapisu
+git commit -m "tekst" - zapisuje zmiany w commicie
+git log - pokazuje historie commitów
