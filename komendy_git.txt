@@ -4,3 +4,4 @@ git status - wyświetla wybrane pliki
 git reset - usuwa pliki z listy do zapisu
 git commit -m "tekst" - zapisuje zmiany w commicie
 git log - pokazuje historie commitów
+git remote add origin (link do repozytorium) - dodanie zdalnego repozytorium
